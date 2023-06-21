@@ -1,0 +1,102 @@
+
+body {
+  font-family: "Public Sans", sans-serif !important;
+  font-size: 18px !important;
+  color: #2f3987 !important;
+}
+
+p {
+  cursor: default !important;
+}
+
+
+.footer-link:active, .footer-link:hover {
+  color: #2bb7da !important;
+}
+
+footer {
+  background-color: #2d314d !important;
+}
+footer a {
+  text-decoration: none !important;
+}
+
+
+
+
+
+
+  .mt-md-custom-easybank{
+    margin-top: -8% !important; 
+  }
+  #business-tagline {
+    font-size: 3.8rem !important;
+  }
+
+
+.request-btns:hover, .request-btns:active {
+  opacity: 0.7;
+}
+
+.hero-content{
+    height: 100vh;
+    background-color: #355070;
+    color: #ffffff;
+    padding:0 auto 0;
+    border-bottom-left-radius: 45rem;
+    border-bottom-right-radius: 45rem;
+    
+}
+
+.hero-img{
+    height: 700px;
+    width: 80%;
+    padding: auto;
+    margin: 0 auto 0 auto;
+}
+
+.hero-img-div{
+    margin: 0 auto 0 auto;
+}
+
+/* navbar css starts here  */
+.bg-light{
+    background-color: #485057!important;
+}
+
+.navbar-brand{
+    font-family: 'Oswald', cursive;
+    font-size: 1.5rem;
+    color: #bcea51d0!important;
+}
+
+.nav-link{
+    color: #bcea51d0!important;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.nav-link:hover{
+    background-color: #f3f1f1;
+}
+
+.nav-link{
+    color:#f3f1f1
+}
+
+.opss{
+    float:left;
+}
+
+#request{
+    float:left;
+    padding: auto;
+}
+
+.ml-auto{
+    margin-left: auto!important;
+}
+
+.navbar{
+    padding-left: 10px;
+    padding-right: 10px;
+}
